@@ -2,4 +2,4 @@
 How to analyze wine quality in python
 
 
-The pdf explain everythin about the analysis
+The pdf explain everything about the analysis
